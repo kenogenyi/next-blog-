@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div>fuck me</div>
+    <div>home</div>
   )
 }
 
